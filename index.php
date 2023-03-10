@@ -75,11 +75,12 @@
     </h1>
     
     <div class="container">
-        <div class="row">
+        
+        <!-- <div class="row">
             <div class="col-12">
                 <form method="get" action="./greetings.php"></form>
             </div>
-        </div>
+        </div> -->
 
 
 
